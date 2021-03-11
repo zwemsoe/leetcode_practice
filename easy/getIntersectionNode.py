@@ -15,10 +15,3 @@ def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
         t2 = t2.next
 
     return None
-
-
-def main():
-    pass
-
-
-main()

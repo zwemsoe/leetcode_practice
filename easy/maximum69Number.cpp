@@ -17,8 +17,3 @@ int maximum69Number(int num)
     }
     return num + pos;
 }
-
-int main()
-{
-    return 0;
-}

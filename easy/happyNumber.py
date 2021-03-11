@@ -19,10 +19,3 @@ def isHappy(self, n: int) -> bool:
             else:
                 seen[sm] = sm
                 n = sm
-
-
-def main():
-    pass
-
-
-main()

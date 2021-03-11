@@ -18,10 +18,3 @@ def findRestaurant(self, list1: List[str], list2: List[str]) -> List[str]:
     minVal = min(temp.values())
 
     return [k for k, v in temp.items() if v == minVal]
-
-
-def main():
-    pass
-
-
-main()

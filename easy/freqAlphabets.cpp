@@ -32,8 +32,3 @@ string freqAlphabets(string s)
     }
     return res;
 }
-
-int main()
-{
-    return 0;
-}

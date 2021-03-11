@@ -24,8 +24,3 @@ int maxProfit(vector<int> &prices)
     }
     return max;
 }
-
-int main()
-{
-    return 0;
-}

@@ -62,8 +62,3 @@ int nextPrime(int n, vector<int> &arr)
     }
     return res;
 }
-
-int main()
-{
-    return 0;
-}
